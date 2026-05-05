@@ -1,0 +1,7 @@
+{
+  "name": "EduGenius AI",
+  "description": "An AI-powered personalized learning platform that creates custom career paths, adaptive assessments, and interactive learning experiences using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
